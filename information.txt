@@ -1,1 +1,3 @@
 Name: dew
+Address: Khon Kaen
+Phone: 063509XXXX
